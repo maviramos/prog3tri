@@ -1,0 +1,4 @@
+stitch;0.015;C:\Users\Suporte\Documents\vitoria\imagens\stitch.webp
+selfie;22;C:\Users\Suporte\Documents\vitoria\imagens\selfie.png
+mickey;1200.45;C:\Users\Suporte\Documents\vitoria\imagens\mickey.jpg
+coletânia;12.701;C:\Users\Suporte\Documents\vitoria\imagens\coletânia.jpg
